@@ -1,1 +1,2 @@
+ # Weather App
 This Weather App is a user-friendly application that provides real-time weather updates for various locations. Built with [HTML, CSS, JavaScript], it fetches data from the OpenWeatherMap API to display current weather conditions, including temperature, humidity, wind speed, and more.
